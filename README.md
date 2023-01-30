@@ -20,7 +20,3 @@ Estão disponíveis no momento dois jogos: Jogo da Velha e Batalha Naval.
 - Ranking de jogadores com maior pontuação ;<br>
 
 <b><h3> ❗ O Projeto será aprimorado ao longo do curso! </h3>
-
-<br>
-  ![](HUBDEJOGOS-VIDEO.gif)
-<br>
