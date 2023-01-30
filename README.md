@@ -21,7 +21,3 @@ Estão disponíveis no momento dois jogos: Jogo da Velha e Batalha Naval.
 
 <b><h3> ❗ O Projeto será aprimorado ao longo do curso! </h3>
 
-<br>
-  ![](HUBDEJOGOS-VIDEO.gif)
-<br>
-
